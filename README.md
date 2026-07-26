@@ -105,3 +105,11 @@ npm run lint
 * **Detailed Stock Adjustment Modal**: Segmented selector for Incoming/Outgoing actions with limit checks preventing sales exceeding stock.
 * **Categories View**: Category management screen showing custom creation form and tally counts.
 * **Stock History (Audit Trail)**: Chronological list of product updates and stock shift deltas.
+
+![alt text](Dashboard.png)
+![alt text](<Inventory (Table View).png>)
+![alt text](<Add Product (Form Validations).png>)
+![alt text](<Product Categories.png>)
+![alt text](<Stock History.png>)
+
+
